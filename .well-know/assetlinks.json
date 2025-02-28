@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.opentechnology.openpet",
+      "sha256_cert_fingerprints":
+      ["01:26:F1:E2:8F:CA:A1:30:43:FE:BA:93:DF:C7:39:DB:FB:99:B7:02:94:D4:BB:51:3C:68:F7:16:90:47:C2:18"]
+    }
+  }]
